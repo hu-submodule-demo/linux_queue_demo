@@ -1,0 +1,3 @@
+[submodule "linux_queue"]
+	path = linux_queue
+	url = https://github.com/hu-submodule-1/linux_queue.git
